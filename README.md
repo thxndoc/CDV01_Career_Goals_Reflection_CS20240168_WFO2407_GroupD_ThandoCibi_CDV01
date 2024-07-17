@@ -32,7 +32,7 @@ By completing this reflection, you will gain a clearer understanding of your car
         - Receptive to feedback/constructive criticism
         
     - Identify skills you need to develop or improve.
-        - Public speaking
+        - Public speaking: Confidence in my speaking ability and articulating my thoughts.
 
 2. **Interests and Values**:
     
