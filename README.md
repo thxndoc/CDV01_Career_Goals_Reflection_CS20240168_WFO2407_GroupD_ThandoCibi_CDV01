@@ -56,7 +56,7 @@
     - Identify any gaps or areas for further exploration.
         - Soft skills development (effective communication, teamwork, time-management etc)
         - UI Design principles
-        - Acessibility best practices
+        - Acessibility best practices and standards
         - Cloud computing
         - Agile development practices
 
