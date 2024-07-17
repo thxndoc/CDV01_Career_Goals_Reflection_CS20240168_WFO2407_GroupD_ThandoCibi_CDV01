@@ -64,7 +64,7 @@
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals:
-        -💪🏽 Complete a software development bootcamp within 6 months, finishing with a portfolio of projects and the ability to code proficiently in HTML, CSS, JavaScript, along with frameworks and libraries, enabling me to apply for junior roles and succesfully transition to the tech industry.
+        - 💪🏽 Complete a software development bootcamp within 6 months, finishing with a portfolio of projects and the ability to code proficiently in HTML, CSS, JavaScript, along with frameworks and libraries, enabling me to apply for junior roles and succesfully transition to the tech industry.
         - Specific: Completing the CodeSpace Academy bootcamp and build a portfolio
         - Measurable: Proficiency in HTML, CSS and JS
         - Achievable: Bootcamp ends in 6 months
