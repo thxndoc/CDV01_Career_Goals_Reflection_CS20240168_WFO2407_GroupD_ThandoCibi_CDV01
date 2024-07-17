@@ -45,22 +45,43 @@
     - Particular areas that piqued your interest:
         - UI Design
         - Accessibility specialist/ Inclusive Design specialist
+        - Cloud computing
 
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
+    - Reflect on how these industries/roles align with your skills, interests, and values:
+        - I have an inclination towards growth and continuous learning, which are essential traits in the ever-evolving tech industry.
+
     - Identify any gaps or areas for further exploration.
+        - Soft skills development (effective communication, teamwork, time-management etc)
+        - UI Design principles
+        - Acessibility best practices
+        - Cloud computing
+        - Agile development practices
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
+    - List your specific, measurable, achievable, relevant, and time-bound goals:
+        💪🏽 Complete a software development bootcamp within 6 months, finishing with a portfolio of projects and the ability to code proficiently in HTML, CSS, JavaScript, along with frameworks and libraries, enabling me to apply for junior roles and succesfully transition to the tech industry.
+        - Specific: Completing the CodeSpace Academy bootcamp and build a portfolio
+        - Measurable: Proficiency in HTML, CSS and JS
+        - Achievable: Bootcamp ends in 6 months
+        - Relevant: Directly relates to me getting into the tech industry
+        - Time-bound: Complete the course in 6 months
+
     - Explain the rationale behind each goal.
+        - This plan helps me become a software developer or get into the tech industry quickly through focused learning. The CodeSpace Academy bootcamp not only simulates a real-world work environment, but also teaches me important skills. In 6 months, I can learn a lot and change my career.
+        By building my portfolio, I can show what I've learned and this would help me prove my skills to future employers. 
+
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
+    - Outline your long-term career aspirations:
+        - Specialise in an area of interest
+
     - Describe how these align with your interests and skills.
+        - 
 
 ### Part 4: Action Plan
 
