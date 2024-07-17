@@ -31,19 +31,28 @@ By completing this reflection, you will gain a clearer understanding of your car
         - Problem solving
         - Receptive to feedback/constructive criticism
         
-    - Identify skills you need to develop or improve.
+    - Skills you need to develop or improve:
         - Public speaking: Confidence in my speaking ability and articulating my thoughts.
 
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
+    - Key interests related to your career:
+        - Learning something new
+        - Seeing the results of my work
+
     - What values are important to you in a work environment?
+        - Growth opportunities
+        - Work-life balance
+        - Stability
+        - Flexibility 
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
+    - List the industries or roles you have researched:
+        - UI Design
+        
     - Note any particular areas that piqued your interest.
 2. **Alignment with Personal Profile**:
     
