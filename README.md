@@ -41,6 +41,7 @@
         - UI Design
         - Front-end Developer
         - Accessibility specialist/ Inclusive Design specialist
+        - Cloud computing
 
     - Particular areas that piqued your interest:
         - UI Design
