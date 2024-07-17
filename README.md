@@ -25,8 +25,15 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
+    - Current skills and areas of expertise:
+        - Adaptability
+        - Continuous learning
+        - Problem solving
+        - Receptive to feedback/constructive criticism
+        
     - Identify skills you need to develop or improve.
+        - Public speaking
+
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
