@@ -71,38 +71,77 @@
         - Relevant: Directly relates to me getting into the tech industry
         - Time-bound: Complete the course in 6 months
 
-    - Explain the rationale behind each goal.
+    - Explain the rationale behind each goal:
         - This plan helps me become a software developer or get into the tech industry quickly through focused learning. The CodeSpace Academy bootcamp not only simulates a real-world work environment, but also teaches me important skills. In 6 months, I can learn a lot and change my career.
         By building my portfolio, I can show what I've learned and this would help me prove my skills to future employers. 
 
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations:
-        - Specialise in an area of interest
+        - Research the roles I would be interested in and would like to specialise in (UI Design, Accessibility or Cloud computing)
+        - Take online courses to update my knowledge and skills
+        - Build projects to showcase my learning
+        - Speak to industry professionals
+        - Join groups that are relevant to the roles I'm interested in
 
     - Describe how these align with your interests and skills.
-        - 
+        - My growth mindset and eagerness for continuous learning position me well for the ever-evolving tech industry. These traits will enable me to adapt to new tools, languages, practices and methodologies as they emerge.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Detail specific actions or steps needed to achieve each short-term goal:
+        - Complete and submit weekly projects
+        - Check-in and out daily
+        - Attend coaching sessions twice a week
+        - Actively participate in group discussions
+        - Complete LMS content
+
+    - Resources or support required:
+        - Backup power supply so I'm able to work during power outages
+        - Support from coaches and peers
+        - Watch YouTube videos and go through extra resources provided to us
+
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Describe the preparations or groundwork necessary for your long-term aspirations:
+        - Research the roles I am interested in and what skills/qulaifications are needed
+        - Talk to industry professionals
+        - Join relevant groups
+        - Take online courses
+        - Build projects to apply my knowledge 
+
+    - Additional skills, experiences, or qualifications needed:
+        - I might need AWS/Azure/Google certs for cloud computing
+        - Improve my skills in accessibility for inclusive design
+        - A portfolio to showcase my work 
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Potential obstacles or challenges in reaching your goals:
+        - Financial constraints if I need to take paid courses
+        - Steep learning curves of different tools
+
+    - Consider strategies to overcome these challenges:
+        - Get a job to help pay for the courses
+        - Look for courses that are self-paced so I am able to get a job on the side
+        - Break down complex concepts into smaller parts
+        - Ask for help from peers or those already in the industry
+        - Look for YouTube videos that explain concepts in an easy to digest way
+
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - Opportunities you can leverage for career growth:
+        - Join relevant Discord groups
+        - Contribute to open source projects for real-world experience
+        - Look for internships to gain experience
+
+    - Include networking, mentorship, or educational opportunities:
+        - Connect with LinkedIn community
+        - Pursue relevant certs
+        - Teach others as I learn to solidify my knowledge and learn from others as well
 
 
