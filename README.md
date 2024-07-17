@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:**Thando Cibi
+- **Date:**17/07/2024
+- **Current Role/Position:**Student at CodeSpace Academy
+- **Field of Interest:**Software Development
 
 ### Part 1: Self-Assessment Reflection
 
